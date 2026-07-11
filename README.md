@@ -1,6 +1,7 @@
+# C_project_1
+
 ![image alt](https://github.com/sussi379/C_project_1/blob/main/screenshot.png?raw=true)
 
-# C_project_1
 Day 15 of learning C programming!
 Just a mini project while learning C
 
